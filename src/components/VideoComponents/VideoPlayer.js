@@ -3,7 +3,7 @@ import ReactPlayer from "react-player";
 
 const datas = Array.from(
   { length: 9 },
-  (_, id) => `../../video/video${id + 1}.mp4`
+  (_, id) => `../Video/video${id + 1}.mp4`
 );
 
 function VideoPlayer() {

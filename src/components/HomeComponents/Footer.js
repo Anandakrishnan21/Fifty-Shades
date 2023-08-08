@@ -35,8 +35,8 @@ const movie2 = [
 
 function Footer() {
   return (
-    <div className="w-full h-full bg-black text-white flex flex-col md:flex-row items-center py-2">
-      <div className="w-full h-32 md:h-full md:w-1/3 flex flex-col justify-center items-center">
+    <div className="w-full h-full md:h-80 lg:h-full bg-black text-white flex flex-col md:flex-row items-center py-2">
+      <div className="w-full h-32 md:h-full md:w-1/3 flex flex-col justify-center items-center gap-2">
         <h3>Social Media</h3>
         {data1.map((data) => (
           <a href={data.link} className="w-full flex justify-center items-center">
@@ -48,17 +48,17 @@ function Footer() {
           </a>
         ))}
       </div>
-      <div className="w-full h-32 md:w-1/3 flex flex-col justify-center items-center">
+      <div className="w-full h-32 md:h-full md:w-1/3 flex flex-col justify-center items-center gap-2">
         <h3>Movies</h3>
         {movie2.map((movie) => (
-          <div key={movie.id} className="w-full flex justify-center items-center">
+          <div key={movie.id} className="w-full flex justify-center items-center gap-2">
             <div>
               <p className="font-semibold text-base">{movie.title}</p>
             </div>
           </div>
         ))}
       </div>
-      <div className="w-full h-32 md:w-1/3 flex flex-col justify-center items-center">
+      <div className="w-full h-32 md:h-full md:w-1/3 flex flex-col justify-center items-center gap-2">
         <h3>Address</h3>
         <div>
           <p className="font-semibold text-base">123, abc Road BSK 3</p>
