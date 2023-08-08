@@ -35,7 +35,7 @@ const movie2 = [
 
 function Footer() {
   return (
-    <div className="w-full h-full md:h-80 lg:h-full bg-black text-white flex flex-col md:flex-row items-center py-2">
+    <div className="w-full h-full md:h-96 lg:h-full bg-black text-white flex flex-col md:flex-row items-center py-2">
       <div className="w-full h-32 md:h-full md:w-1/3 flex flex-col justify-center items-center gap-2">
         <h3>Social Media</h3>
         {data1.map((data) => (
