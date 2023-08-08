@@ -1,7 +1,7 @@
 import React from "react";
-import actor1 from "../../images/actor2.jpg";
-import actor2 from "../../images/actor1.jpg";
-import actor3 from "../../images/actor4.jpg";
+import actor1 from "../images/actor2.jpg";
+import actor2 from "../images/actor1.jpg";
+import actor3 from "../images/actor4.jpg";
 
 function Cast() {
   return (

@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import "../../CSS/index.css";
 import { Nav } from "react-bootstrap";
 import { Menu, X } from "lucide-react";
-import mask from "../../images/mask.png";
+import mask from "../images/mask.png";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

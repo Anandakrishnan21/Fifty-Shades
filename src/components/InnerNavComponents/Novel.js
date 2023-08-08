@@ -1,10 +1,10 @@
 import React from "react";
-import grey1 from "../../images/greyb.webp";
-import grey2 from "../../images/greyb1.webp";
-import darker1 from "../../images/darkerb.webp";
-import darker2 from "../../images/darkerb1.webp";
-import freed1 from "../../images/freedb.webp";
-import freed2 from "../../images/freedb1.webp";
+import grey1 from "../images/greyb.webp";
+import grey2 from "../images/greyb1.webp";
+import darker1 from "../images/darkerb.webp";
+import darker2 from "../images/darkerb1.webp";
+import freed1 from "../images/freedb.webp";
+import freed2 from "../images/freedb1.webp";
 
 const novels = [
   {

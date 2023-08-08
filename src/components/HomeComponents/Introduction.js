@@ -1,5 +1,5 @@
 import React from "react";
-import fs1 from "../../images/fs1.jpeg";
+import fs1 from "../images/fs1.jpeg";
 
 function Introduction() {
   return (

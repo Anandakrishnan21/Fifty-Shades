@@ -1,7 +1,7 @@
 import React from "react";
-import grey from "../../images/grey.jpeg";
-import darker from "../../images/darker.jpeg";
-import freed from "../../images/freed.jpeg";
+import grey from "../images/grey.jpeg";
+import darker from "../images/darker.jpeg";
+import freed from "../images/freed.jpeg";
 
 const movies = [
   {

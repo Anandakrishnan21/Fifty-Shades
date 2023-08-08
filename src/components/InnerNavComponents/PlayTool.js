@@ -1,10 +1,10 @@
 import React from "react";
-import red1 from '../../images/red1.jpg'
-import red2 from '../../images/red2.jpg'
-import red3 from '../../images/red3.jpg'
-import red4 from '../../images/red4.jpg'
-import red5 from '../../images/red5.png'
-import red6 from '../../images/red6.jpg'
+import red1 from '../images/red1.jpg'
+import red2 from '../images/red2.jpg'
+import red3 from '../images/red3.jpg'
+import red4 from '../images/red4.jpg'
+import red5 from '../images/red5.png'
+import red6 from '../images/red6.jpg'
 
 
 const redRoom = [

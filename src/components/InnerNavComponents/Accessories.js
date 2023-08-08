@@ -1,10 +1,10 @@
 import React from "react";
-import outfit1 from '../../images/outfit1.jpg'
-import outfit2 from '../../images/outfit2.jpg'
-import outfit3 from '../../images/outfit9.jpg'
-import outfit4 from '../../images/outfit4.jpg'
-import outfit5 from '../../images/outfit5.jpg'
-import outfit6 from '../../images/outfit6.jpg'
+import outfit1 from '../images/outfit1.jpg'
+import outfit2 from '../images/outfit2.jpg'
+import outfit3 from '../images/outfit9.jpg'
+import outfit4 from '../images/outfit4.jpg'
+import outfit5 from '../images/outfit5.jpg'
+import outfit6 from '../images/outfit6.jpg'
 
 const accessories = [
   {
